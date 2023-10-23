@@ -1,0 +1,8 @@
+Id,Categoria,Nombre,CantidadDisponible,CantidadVendida,Estado,Precio,ml,gr,Tipo,Sabor,Tamaño
+1,Bebida,Coca-Cola,75,5,Disponible,10.0,300.0,NA,Soda,NA,NA
+2,Snack,TorTrix,200,100,Disponible,1.0,NA,15.0,NA,Barbacoa,Peque�o
+3,Helado,GigaSarita,15,30,Disponible,10.0,NA,NA,Vaso,Chocolate,Mediano
+4,Bebida,Fanta,0,20,No disponible,10.0,300.0,NA,Soda,NA,NA
+5,Snack,Lais,100,50,Disponible,6.0,NA,15.0,NA,Barbacoa,Mediano
+6,Bebida,Delactomy,0,80,No disponible,20.0,800.0,NA,Leche,NA,NA
+7,Snack,Doritos,50,10,Disponible,6.0,NA,10.0,NA,Picante,Mediano
